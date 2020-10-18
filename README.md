@@ -1,2 +1,2 @@
-# MaxProject
+# ImageApp
 Angular
